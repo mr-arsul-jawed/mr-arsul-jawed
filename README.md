@@ -12,7 +12,8 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 
 - 🌱 I’m currently learning **Frameworks, Course etc.**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/arsul-jawed-716b22266]
+- 👨‍💻 All of my projects are available at
+- [www.linkedin.com/in/arsul-jawed-716b22266]
 
 - 📫 How to reach me **arsuljawed97@gmail.com**
 
