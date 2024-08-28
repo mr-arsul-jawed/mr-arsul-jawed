@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arsul Jawed</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img aligh="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">
+<img aligh="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-arsul-jawed&label=Profile%20views&color=0e75b6&style=flat" alt="mr-arsul-jawed" /> </p>
 
